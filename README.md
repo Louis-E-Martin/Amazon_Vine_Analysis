@@ -6,6 +6,6 @@ In this assignmentI looked at the revewis of the electronics section from amazon
 ## Results
 
 ### Non vine Reviews
--There where 49673 total reviews for the non vine catagory
--There where 23043 5 star reviews
--46%
+- There where 49673 total reviews for the non vine catagory
+- There where 23043 5 star reviews
+- 46%
